@@ -25,7 +25,7 @@ There are three sponsorship options available:
 As the venue host, you will provide the event space, Wi-Fi and a projector.
 
 ## Food / Beverage Sponsorship
-As the food/beverage sponsors, you will pay for the pizza and pop (typically $200).  We will coordinate ordering and delivery.  We can send you an PO invoice to provide any required paperwork.  
+As the food/beverage sponsor, you will pay for the pizza and pop (typically $200).  We will coordinate ordering and delivery.  We can send you an PO invoice to provide any required paperwork.  
 
 
 ## General Sponsorship FAQ
@@ -35,7 +35,7 @@ A typical meetup involves a few speaker presentations and some time for Q&A. Spe
 
 
 #### How many guests will be invited?
-The entire meetup group will be invited but typically 40-50 people attend.
+The entire meetup group will be invited and typically 40-50 people attend.
 
 ## Questions / Interested?
 Have questions? Interested in sponsoring? You can use the Contact button on our Meetup Page to reach us for more information: https://www.meetup.com/DevOps-Ottawa/.
