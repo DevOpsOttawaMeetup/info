@@ -20,7 +20,7 @@ The entire meetup group will be invited and typically 40-50 people attend.
 In addition to building a stronger local development community, hosting a meetup is great way to get visibility for your company and network with local developers.
 
 ### Previous meetups
-We've had some great meetups so far, see our previous meetup [slides](https://github.com/DevOpsOttawaMeetup/slides) for more details.
+We've had some great meetups so far, see our [meetup slides](https://github.com/DevOpsOttawaMeetup/slides) for more details.
 
 ### Questions / Interested?
 Have questions? Interested in hosting? You can use the contact button on our [Meetup Page](https://www.meetup.com/DevOps-Ottawa/) to reach us for more information.
