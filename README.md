@@ -5,7 +5,7 @@ Welcome to [DevOps Ottawa Meetup](https://www.meetup.com/DevOps-Ottawa/)!
 Build a strong local cloud development and DevOps community.  
 
 ### Format
-Quarterly meetup with a "show and tell" format.  We rotate to different local companies who host and share what they've learned in the cloud development and DevOps space.  
+Quarterly meetup with a "show and tell" format.  We rotate our meetings at different local companies who host and share what they've learned in the cloud development and DevOps space.  
 
 ### What's required to host?
 Hosts are required to come up with the talks and provide the pizza/drinks.  Hosts usually provide the venue as well but we can help with that if you don't have the space.
